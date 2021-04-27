@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8de8b80c514d1b560ea2",
-    "url": "/alvaro-barrera/static/css/main.cb9ecca7.chunk.css"
+    "revision": "808ed5eed0f807a8966b",
+    "url": "/alvaro-barrera/static/css/main.c9624552.chunk.css"
   },
   {
-    "revision": "8de8b80c514d1b560ea2",
-    "url": "/alvaro-barrera/static/js/main.8de8b80c.chunk.js"
+    "revision": "808ed5eed0f807a8966b",
+    "url": "/alvaro-barrera/static/js/main.808ed5ee.chunk.js"
   },
   {
     "revision": "9ca697ceb9c30251f5e8",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/alvaro-barrera/static/media/idea.5b68c4dc.svg"
   },
   {
-    "revision": "fc5cb08f104f0ab077d86b796ba54340",
+    "revision": "7f381906b0038b2232fef570c158727c",
     "url": "/alvaro-barrera/index.html"
   }
 ];
