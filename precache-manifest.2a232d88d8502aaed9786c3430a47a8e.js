@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "c9172a14809a35a96921",
+    "revision": "98cf3913d973180c5ebb",
     "url": "/alvaro-barrera/static/css/main.c9624552.chunk.css"
   },
   {
-    "revision": "c9172a14809a35a96921",
-    "url": "/alvaro-barrera/static/js/main.c9172a14.chunk.js"
+    "revision": "98cf3913d973180c5ebb",
+    "url": "/alvaro-barrera/static/js/main.98cf3913.chunk.js"
   },
   {
     "revision": "9ca697ceb9c30251f5e8",
     "url": "/alvaro-barrera/static/js/runtime~main.9ca697ce.js"
   },
   {
-    "revision": "598e66ef51ab57ec5497",
+    "revision": "e1b5ac6a4ac105836958",
     "url": "/alvaro-barrera/static/css/2.b83a50ef.chunk.css"
   },
   {
-    "revision": "598e66ef51ab57ec5497",
-    "url": "/alvaro-barrera/static/js/2.598e66ef.chunk.js"
+    "revision": "e1b5ac6a4ac105836958",
+    "url": "/alvaro-barrera/static/js/2.e1b5ac6a.chunk.js"
   },
   {
     "revision": "f6e54d53710dcf3b62e35925800f0d9c",
@@ -96,11 +96,15 @@ self.__precacheManifest = [
     "url": "/alvaro-barrera/static/media/bes_efactura.dd37b634.PNG"
   },
   {
-    "revision": "5b68c4dc85a9d0f7c57e3475b6f7c98f",
-    "url": "/alvaro-barrera/static/media/idea.5b68c4dc.svg"
+    "revision": "752922707f5fa48b2c30c547ddab1b0e",
+    "url": "/alvaro-barrera/static/media/briefcase.75292270.PNG"
   },
   {
-    "revision": "ada9b8cbdd4032afb5730bfef49bf5d8",
+    "revision": "b30aa955eb8c27a61036de1cde7e67ae",
+    "url": "/alvaro-barrera/static/media/brand.b30aa955.png"
+  },
+  {
+    "revision": "5431dd5d2afcff283474dc394ffe5559",
     "url": "/alvaro-barrera/index.html"
   }
 ];

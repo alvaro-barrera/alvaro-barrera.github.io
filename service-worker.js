@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/alvaro-barrera/precache-manifest.04f1ffa57697fb52ae72c234895f7e0c.js"
+  "/alvaro-barrera/precache-manifest.2a232d88d8502aaed9786c3430a47a8e.js"
 );
 
 workbox.clientsClaim();
