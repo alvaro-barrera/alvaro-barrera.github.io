@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "808ed5eed0f807a8966b",
+    "revision": "161ea10562ff570573b5",
     "url": "/alvaro-barrera/static/css/main.c9624552.chunk.css"
   },
   {
-    "revision": "808ed5eed0f807a8966b",
-    "url": "/alvaro-barrera/static/js/main.808ed5ee.chunk.js"
+    "revision": "161ea10562ff570573b5",
+    "url": "/alvaro-barrera/static/js/main.161ea105.chunk.js"
   },
   {
     "revision": "9ca697ceb9c30251f5e8",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/alvaro-barrera/static/media/stars.1d17360a.svg"
   },
   {
-    "revision": "277ddd80c5dd140f56a6a7d0a62763f0",
-    "url": "/alvaro-barrera/static/media/profile.277ddd80.jpg"
+    "revision": "ebe533773e968b7c43c5728dcdef6f9d",
+    "url": "/alvaro-barrera/static/media/profile.ebe53377.jpg"
   },
   {
     "revision": "584d9f322f08684db8ff2217731e474f",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/alvaro-barrera/static/media/idea.5b68c4dc.svg"
   },
   {
-    "revision": "7f381906b0038b2232fef570c158727c",
+    "revision": "b3faa284e4795494db133a54765f7261",
     "url": "/alvaro-barrera/index.html"
   }
 ];
