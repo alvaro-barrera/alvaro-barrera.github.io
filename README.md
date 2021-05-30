@@ -3,6 +3,8 @@
 
 - 👨‍💻 More about me at [https://alvaro-barrera.github.io/alvaro-barrera/](https://alvaro-barrera.github.io/alvaro-barrera/)
 
+<p align="left"> <a href="https://twitter.com/alvaro__barrera" target="blank"><img src="https://img.shields.io/twitter/follow/alvaro__barrera?logo=twitter&style=for-the-badge" alt="alvaro__barrera" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alvaro__barrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="alvaro__barrera" height="30" width="40" /></a>
@@ -16,4 +18,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaro-barrera&label=Profile%20views&color=0e75b6&style=flat" alt="alvaro-barrera" /> </p>
 
-<p align="left"> <a href="https://twitter.com/alvaro__barrera" target="blank"><img src="https://img.shields.io/twitter/follow/alvaro__barrera?logo=twitter&style=for-the-badge" alt="alvaro__barrera" /></a> </p>
