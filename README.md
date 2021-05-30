@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Álvaro Barrera</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://alvaro-barrera.github.io/alvaro-barrera/#/" target="_blank">Álvaro Barrera</a></h1>
 <h3 align="center">A passionate software developer from Perú</h3>
 
 <p align="left"> <a href="https://twitter.com/alvaro__barrera" target="blank"><img src="https://img.shields.io/twitter/follow/alvaro__barrera?logo=twitter&style=for-the-badge" alt="alvaro__barrera" /></a> </p>
