@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/alvaro-barrera/static/media/brand.b30aa955.png"
   },
   {
-    "revision": "5431dd5d2afcff283474dc394ffe5559",
+    "revision": "d8c6caa0c48e43ec5e8399269e6ad0c2",
     "url": "/alvaro-barrera/index.html"
   }
 ];
