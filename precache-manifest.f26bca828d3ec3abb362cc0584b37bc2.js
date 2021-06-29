@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "34b58afccceef367e5fa",
+    "revision": "f157bf73ae9b0c532521",
     "url": "/static/css/main.e2f477b7.chunk.css"
   },
   {
-    "revision": "34b58afccceef367e5fa",
-    "url": "/static/js/main.34b58afc.chunk.js"
+    "revision": "f157bf73ae9b0c532521",
+    "url": "/static/js/main.f157bf73.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/static/media/briefcase.75292270.PNG"
   },
   {
-    "revision": "c42d3024f2765c4da4a46aafcc795bd1",
+    "revision": "ab2905333dadb73b7329f509b6a2150f",
     "url": "/index.html"
   }
 ];
