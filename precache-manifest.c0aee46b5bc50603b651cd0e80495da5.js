@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e58c28eebe41ffc3c77e",
-    "url": "/static/css/main.7d69311d.chunk.css"
+    "revision": "b5907e1014c64b1a174a",
+    "url": "/static/css/main.b5ce18b1.chunk.css"
   },
   {
-    "revision": "e58c28eebe41ffc3c77e",
-    "url": "/static/js/main.e58c28ee.chunk.js"
+    "revision": "b5907e1014c64b1a174a",
+    "url": "/static/js/main.b5907e10.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "de316167d24ffa14613c",
+    "revision": "1bad1038b1a8238f41d4",
     "url": "/static/css/2.b83a50ef.chunk.css"
   },
   {
-    "revision": "de316167d24ffa14613c",
-    "url": "/static/js/2.de316167.chunk.js"
+    "revision": "1bad1038b1a8238f41d4",
+    "url": "/static/js/2.1bad1038.chunk.js"
   },
   {
     "revision": "f6e54d53710dcf3b62e35925800f0d9c",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/static/media/briefcase.75292270.PNG"
   },
   {
-    "revision": "e4f6e2295f27506f9cf4655fda4bcf7b",
+    "revision": "8e0135ad2d1a48c61808dcb10432889a",
     "url": "/index.html"
   }
 ];
