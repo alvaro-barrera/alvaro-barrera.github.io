@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "ba3f744f536d9096f416",
-    "url": "/static/css/main.49e0348f.chunk.css"
+    "revision": "07c28adf28e0592b46094aef81fcc655",
+    "url": "/static/media/mysql.07c28adf.png"
   },
   {
-    "revision": "ba3f744f536d9096f416",
-    "url": "/static/js/main.ba3f744f.chunk.js"
+    "revision": "e024f7cf0f6f473a9ce0",
+    "url": "/static/css/main.dbe7453b.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "44dbd165841d2932ef7d",
-    "url": "/static/css/2.b83a50ef.chunk.css"
+    "revision": "f89277051032d139cff1045d8e29f1c1",
+    "url": "/static/media/todo.f8927705.PNG"
   },
   {
-    "revision": "44dbd165841d2932ef7d",
-    "url": "/static/js/2.44dbd165.chunk.js"
+    "revision": "d3710415c6752b36453e",
+    "url": "/static/js/2.d3710415.chunk.js"
   },
   {
     "revision": "f6e54d53710dcf3b62e35925800f0d9c",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/static/media/postgresql.ea92d658.png"
   },
   {
-    "revision": "07c28adf28e0592b46094aef81fcc655",
-    "url": "/static/media/mysql.07c28adf.png"
+    "revision": "e024f7cf0f6f473a9ce0",
+    "url": "/static/js/main.e024f7cf.chunk.js"
   },
   {
     "revision": "3e54ed15b9cd877c5223f5ecf64579df",
@@ -100,11 +100,11 @@ self.__precacheManifest = [
     "url": "/static/media/briefcase.75292270.PNG"
   },
   {
-    "revision": "ebe533773e968b7c43c5728dcdef6f9d",
-    "url": "/static/media/profile.ebe53377.jpg"
+    "revision": "d3710415c6752b36453e",
+    "url": "/static/css/2.b83a50ef.chunk.css"
   },
   {
-    "revision": "7bffc35934b8b814c047c34a261f2b43",
+    "revision": "92d5cd8fa3af0c6f0088c2c452a55aba",
     "url": "/index.html"
   }
 ];
