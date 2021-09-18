@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/mysql.07c28adf.png"
   },
   {
-    "revision": "e024f7cf0f6f473a9ce0",
+    "revision": "936ff827c21812052535",
     "url": "/static/css/main.dbe7453b.chunk.css"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/static/media/postgresql.ea92d658.png"
   },
   {
-    "revision": "e024f7cf0f6f473a9ce0",
-    "url": "/static/js/main.e024f7cf.chunk.js"
+    "revision": "936ff827c21812052535",
+    "url": "/static/js/main.936ff827.chunk.js"
   },
   {
     "revision": "3e54ed15b9cd877c5223f5ecf64579df",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.b83a50ef.chunk.css"
   },
   {
-    "revision": "92d5cd8fa3af0c6f0088c2c452a55aba",
+    "revision": "eaec8d02eea56ddc4c47759013dd295e",
     "url": "/index.html"
   }
 ];
